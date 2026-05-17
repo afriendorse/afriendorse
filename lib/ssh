@@ -1,0 +1,19 @@
+Created directory '/Users/ogmac/.ssh'.
+Enter passphrase for "/Users/ogmac/.ssh/id_ed25519" (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/ogmac/.ssh/id_ed25519
+Your public key has been saved in /Users/ogmac/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:xJNXFi5ypcFZrVFHCY/pEzCU7vLmesXSLgPVSZXN4og afriendorse@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|         .o*B=++*|
+|       . .oO+.*+o|
+|        * *.+O.o |
+|       . =E++oo  |
+|        S o oo   |
+|         o o +.  |
+|          + +    |
+|           * .   |
+|         .=.o    |
++----[SHA256]-----+

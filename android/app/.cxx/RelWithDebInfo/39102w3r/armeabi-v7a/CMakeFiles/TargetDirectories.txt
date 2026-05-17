@@ -1,0 +1,2 @@
+/Users/mostafizurrahman/StudioProjects/afriendorse-User-App/android/app/.cxx/RelWithDebInfo/39102w3r/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mostafizurrahman/StudioProjects/afriendorse-User-App/android/app/.cxx/RelWithDebInfo/39102w3r/armeabi-v7a/CMakeFiles/rebuild_cache.dir

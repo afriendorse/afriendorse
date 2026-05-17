@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "681904136683",
+    "project_id": "afriendorsehq",
+    "storage_bucket": "afriendorsehq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681904136683:android:2c633defe07b97c51ef9ae",
+        "android_client_info": {
+          "package_name": "com.afriendorse.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681904136683-ul03m9kesdb4v2g4f5cfkv98ugne0gb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afriendorse.user",
+            "certificate_hash": "40d4ab3c0251fe90ad79d0cb341c51c6080eb979"
+          }
+        },
+        {
+          "client_id": "681904136683-8p9510ujpktklkr4tc0dep6d39a9ltks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUg-AJpYsei4s2XacN7L69F9I8HVNsk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681904136683-8p9510ujpktklkr4tc0dep6d39a9ltks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681904136683-48i9du12g4ejll50abuokng301a5uht0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afriendorse.user.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
